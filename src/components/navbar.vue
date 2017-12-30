@@ -4,7 +4,7 @@
      <div class="container">
         <div class="navbar-brand">
            <a class="navbar-item" @click="gotoForum">
-            <img src="../../node_modules/bulma/img/amitas_logo.svg" alt="Logo" width="112" height="28">
+            <img src="../../bulma/img/amitas_logo.svg" alt="Logo" width="112" height="28">
            </a>
            <div class="navbar-burger burger" data-target="navMenu">
               <span></span>
@@ -56,7 +56,7 @@
      <div class="container">
         <div class="navbar-brand">
            <a class="navbar-item" @click="gotoHome">
-            <img src="../../node_modules/bulma/img/amitas_logo.svg" alt="Logo" width="112" height="28">
+           <img src="../../bulma/img/amitas_logo.svg" alt="Logo" width="112" height="28">
            </a>
            <div class="navbar-burger burger" data-target="navMenu">
               <span></span>
